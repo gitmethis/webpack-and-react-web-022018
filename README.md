@@ -10,7 +10,7 @@ In this lesson, we'll unpack what **Webpack** brings to the table when developin
 2. Learn how Webpack integrates with React
 3. Frame Webpack's relative importance at this stage in learning React
 
-# Webpack
+# Webpasss
 
 Welcome back! We are picking up where we left off in the [previous lesson][previous-lesson]. If you didn't take a break, shame on you. In this lesson, we will explore Webpack and its place in the React development process.
 
